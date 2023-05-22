@@ -1,0 +1,33 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-05-18 14:22:04.916376
+Start name method: select_embroidery_category
+
+End time: 2023-05-18 14:22:18.169755
+End name method: select_embroidery_category
+URL: https://www.rukodelov.ru/catalog/nabory_dlya_vyshivaniya/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-05-18 14:22:18.170756
+Start name method: select_product
+
+End time: 2023-05-18 14:23:07.277463
+End name method: select_product
+URL: https://www.rukodelov.ru/personal/order/make/?
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2023-05-18 14:23:07.284468
+Start name method: confirm_order
+
+End time: 2023-05-18 14:23:15.084269
+End name method: confirm_order
+URL: https://www.rukodelov.ru/personal/order/make/?
+
+-----

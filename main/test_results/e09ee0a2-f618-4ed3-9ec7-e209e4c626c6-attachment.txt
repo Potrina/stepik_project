@@ -1,0 +1,25 @@
+start test
+Current url https://www.rukodelov.ru/
+click embroidery
+Current url https://www.rukodelov.ru/catalog/nabory_dlya_vyshivaniya/
+move to price
+click price
+move to slider
+click confirm
+move to type
+click type
+click category cross stitch
+click confirm
+move to in stoke
+click in stoke
+click product_1
+click popup
+click cart
+Current url https://www.rukodelov.ru/personal/order/make/?
+good value url
+move to checkout_button
+click checkout button
+click oneclick button
+input user name
+input telephone number
+finish test
